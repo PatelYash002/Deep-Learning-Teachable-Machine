@@ -13,7 +13,7 @@ This project explores **Teachable Machine** models and their deployment workflow
 
 The repository includes notebooks, exported model files, and screenshots of training and testing evidence.
 
-🎥 **Video:** [`Explanation Video`](https://drive.google.com/drive/folders/10eQdN-SBNq0FziDCQhC7d7krA_1F8MDi?usp=sharing)
+🎥 **Video:** [`Explanation Video`](https://drive.google.com/file/d/1dyl48J4srtE-wqF76ArJWylJC0tDCqZO/view?usp=sharing)
 ---
 
 > ⚠️ **Current status:** B1 and B2 have exported models and Python notebook workflows. B3 model files are included, but its end-to-end live prediction flow still needs to be verified. See the B3 section below.
